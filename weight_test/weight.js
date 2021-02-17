@@ -129,7 +129,6 @@
         updateData(btnSave.getAttribute('data-update'));
       } else {
         saveData();
-        console.log(userData);
       }
         refreshForm();
     };
